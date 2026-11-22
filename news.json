@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "id": "2026-11-22-mwrvt2hr",
+      "title": "KJK - An engine to combine KOTOR story into JKA",
+      "label": "",
+      "date": 1795354656244,
+      "body": "A open source mod that it being developed to combine both the amazing story of Knights of the Old Republic and the combat of Jedi Knight Acdemy\n\nIts free and out, give it a go!",
+      "image": "",
+      "video": "JKc0uYP7kg4",
+      "url": "https://github.com/kjk-engine/kjk/releases"
+    },
+    {
       "id": "2026-11-22-mwrvlaff",
       "title": "Project Azoth - A private server for New World",
       "label": "New World",

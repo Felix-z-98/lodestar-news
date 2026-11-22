@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "2026-11-22-mwruuebo",
+      "title": "NVForever - An open source engine for New Vegas",
+      "label": "",
+      "date": 1795353038588,
+      "body": "An open-source, clean-room reimplementation of the engine behind Fallout: New Vegas, built from scratch in Rust. It runs on the data files of your own legally purchased copy of the game.\n\nCheck it out!",
+      "image": "",
+      "url": "https://nv-forever.com/"
+    }
+  ]
+}

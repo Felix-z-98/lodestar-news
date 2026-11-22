@@ -28,7 +28,7 @@
       "id": "2026-11-22-mwruuebo",
       "title": "NVForever - An open source engine for New Vegas",
       "tags": [
-        "Fallout"
+        "Game"
       ],
       "date": 1795353038588,
       "body": "\"An open-source, clean-room reimplementation of the engine behind Fallout: New Vegas, built from scratch in Rust. It runs on the data files of your own legally purchased copy of the game.\"\n\nThey have just created v8.0 which now supports mods, check it out and have a look around\n\nCheck it out!",
